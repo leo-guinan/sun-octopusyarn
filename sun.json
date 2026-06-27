@@ -1,0 +1,382 @@
+{
+  "id": "sun-octopusyarn",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@octopusyarn Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_15700b32c91d",
+    "display_name": "octopusyarn",
+    "user_id": "@octopusyarn",
+    "description": "Community Archive-derived proof-of-search sun for @octopusyarn.",
+    "document_count": 811,
+    "word_count": 20402,
+    "active_days": 304,
+    "emissions": [
+      "Self",
+      "Time",
+      "Nosilverv",
+      "Way",
+      "Good",
+      "Don"
+    ],
+    "generated_at": "2026-06-27T16:51:02.703914+00:00",
+    "color": "#f59e0b",
+    "mass": 9.923
+  },
+  "planets": [
+    {
+      "id": "planet_ad747241735a",
+      "name": "Self",
+      "summary": "Archive cluster around self: 650 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "self",
+        "here",
+        "may",
+        "between",
+        "social"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5cdb805ae9f6",
+          "title": "Self receipt from 2024-09-07",
+          "excerpt": "sex is for beginners \n\nunderneath sexual lust is the desire for intimacy, expression, aliveness\n\na tantrika is getting fucked by the universe with every single breath \n\na life well-lived is a work of art in itself\n\nevery sensation and thought is made of sparkling energy",
+          "source_document_id": "1832446981408530923",
+          "timestamp": "2024-09-07T15:53:00+00:00",
+          "url": "https://x.com/octopusyarn/status/1832446981408530923",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: self, here, may, between."
+        },
+        {
+          "id": "art_216a3a04a040",
+          "title": "Self receipt from 2024-04-20",
+          "excerpt": "ok so i went on a @jhanatech retreat last week and not only got to experience some nice feels but also changed some of my outlook on meditation practice \n\noverall, the retreat was extremely well facilitated and supported, props to the team (the hype is real)\n\nsome thoughts below https://t.co/zqH6uZxe0q",
+          "source_document_id": "1781770592900755639",
+          "timestamp": "2024-04-20T19:43:07+00:00",
+          "url": "https://x.com/octopusyarn/status/1781770592900755639",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: self, here, may, between."
+        },
+        {
+          "id": "art_0012862e821f",
+          "title": "Self receipt from 2024-11-20",
+          "excerpt": "@IgorBrigadir Signard",
+          "source_document_id": "1859186928786047033",
+          "timestamp": "2024-11-20T10:48:00+00:00",
+          "url": "https://x.com/octopusyarn/status/1859186928786047033",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: self, here, may, between."
+        },
+        {
+          "id": "art_a81cb24caf23",
+          "title": "Self receipt from 2024-10-20",
+          "excerpt": "enlightenment is just \n\n- down-regulation of the default mode network\n- increased right hemisphere integration and decrease in left hemisphere dominance\n- high-amplitude gamma waves and long-distance phase-synchrony originating in prefrontal &amp; parietal areas\n\nwhat's the big deal?",
+          "source_document_id": "1848105487394279631",
+          "timestamp": "2024-10-20T20:54:18+00:00",
+          "url": "https://x.com/octopusyarn/status/1848105487394279631",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: self, here, may, between."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4756dd5cc39f",
+      "proof_score": 0.998,
+      "mass": 28.961,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_7f2fe4d9fd63",
+      "name": "Time",
+      "summary": "Archive cluster around time: 45 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "ever",
+        "want",
+        "feel",
+        "become"
+      ],
+      "artifacts": [
+        {
+          "id": "art_fac2ec97983c",
+          "title": "Time receipt from 2024-09-15",
+          "excerpt": "ever feel awkward at parties? want to have fun but don't know how? trying to impress pretty girls &amp; alpha males? \n\nyou need a shift in perspective: \n\nyou are adding, not extracting\n\nhow can you make others have a good time? elevate the vibes? \n\nbecome a servant of the group field",
+          "source_document_id": "1835319312313090146",
+          "timestamp": "2024-09-15T14:06:37+00:00",
+          "url": "https://x.com/octopusyarn/status/1835319312313090146",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, ever, want, feel."
+        },
+        {
+          "id": "art_436229991b85",
+          "title": "Time receipt from 2024-02-26",
+          "excerpt": "Had a great time at Richfest.\n\nGrateful to everybody participating for interesting convos, lots of movement, and creating a welcoming atmosphere  \n\nThanks for hosting @RichDecibels",
+          "source_document_id": "1762177245781582047",
+          "timestamp": "2024-02-26T18:06:09+00:00",
+          "url": "https://x.com/octopusyarn/status/1762177245781582047",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, ever, want, feel."
+        },
+        {
+          "id": "art_515c687d0229",
+          "title": "Time receipt from 2024-05-11",
+          "excerpt": "like the power rangers of the metacrisis, we will solve wicked problems by assembling into an Octopus \n\nmore ecological, more technological, more libertarian, and more communal at the same time\n\nemergent action, without a master plan\n\nlet's fucking gooo\n\n🐙",
+          "source_document_id": "1789294891521999086",
+          "timestamp": "2024-05-11T14:02:00+00:00",
+          "url": "https://x.com/octopusyarn/status/1789294891521999086",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, ever, want, feel."
+        },
+        {
+          "id": "art_4bfe27425119",
+          "title": "Time receipt from 2024-06-15",
+          "excerpt": "this process explains SEMANTIC DRIFT, how words change their meaning over time\n\nthe legibility/specificity trade-off changes as a word is used increasingly to signal group identity and slowly uses its meaning\n\nthat's why I use \"metamodern\", not \"integral\" (and will change again)",
+          "source_document_id": "1801924063520071761",
+          "timestamp": "2024-06-15T10:25:49+00:00",
+          "url": "https://x.com/octopusyarn/status/1801924063520071761",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, ever, want, feel."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_6d0186d584fe",
+      "proof_score": 0.733,
+      "mass": 21.93,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_6499b8061cbe",
+      "name": "Nosilverv",
+      "summary": "Archive cluster around nosilverv: 44 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "nosilverv",
+        "around",
+        "don",
+        "well",
+        "meaningness"
+      ],
+      "artifacts": [
+        {
+          "id": "art_92cef3f60a73",
+          "title": "Nosilverv receipt from 2024-04-20",
+          "excerpt": "while i probably won't practice the jhanas directly anymore for a while, i took a lot from it and already see how it infuses my practice \n\nthanks for raving about these retreats @nosilverv and @heynibras \n\nwas great to see @m_ashcroft and @tangrenin popping up on zoom as well",
+          "source_document_id": "1781770611452473734",
+          "timestamp": "2024-04-20T19:43:12+00:00",
+          "url": "https://x.com/octopusyarn/status/1781770611452473734",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, around, don, well."
+        },
+        {
+          "id": "art_ce232a000c25",
+          "title": "Nosilverv receipt from 2024-03-01",
+          "excerpt": "@nosilverv I think it's not goodharting because the causality is bi-directional: improving your posture helps align body-mind as well, not just the other way around",
+          "source_document_id": "1763562791288311990",
+          "timestamp": "2024-03-01T13:51:49+00:00",
+          "url": "https://x.com/octopusyarn/status/1763562791288311990",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, around, don, well."
+        },
+        {
+          "id": "art_19bf20108c60",
+          "title": "Nosilverv receipt from 2023-08-11",
+          "excerpt": "I'm synthesizing work from @slatestarcodex  @Meaningness  @HFreinacht @jgreenhall @vervaeke_john and many others. All of them are working on critical pieces of the puzzle. \n\nThanks for the feedback on earlier drafts @nosilverv @dkazand and Layman Pascal",
+          "source_document_id": "1689997033128509440",
+          "timestamp": "2023-08-11T13:47:45+00:00",
+          "url": "https://x.com/octopusyarn/status/1689997033128509440",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, around, don, well."
+        },
+        {
+          "id": "art_874af5af52af",
+          "title": "Nosilverv receipt from 2024-06-29",
+          "excerpt": "@nosilverv why would you eat your shadow it's your beloved chthonic double who is faithfully following you around and holding all of the stuff you're not ready to process yet \n\npls bro be kind and maybe a little grateful or something",
+          "source_document_id": "1807184283951583250",
+          "timestamp": "2024-06-29T22:48:03+00:00",
+          "url": "https://x.com/octopusyarn/status/1807184283951583250",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: nosilverv, around, don, well."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7aaafe725c16",
+      "proof_score": 0.731,
+      "mass": 20.285,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_cc8cea146bce",
+      "name": "Way",
+      "summary": "Archive cluster around way: 31 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "way",
+        "magic",
+        "ritual",
+        "adaptive",
+        "which"
+      ],
+      "artifacts": [
+        {
+          "id": "art_afe46a57010b",
+          "title": "Way receipt from 2024-07-15",
+          "excerpt": "@frideswyth lol deep teaching in there: \n\nthe best way to get work done is to negate the very concept of work",
+          "source_document_id": "1812835445962649734",
+          "timestamp": "2024-07-15T13:03:45+00:00",
+          "url": "https://x.com/octopusyarn/status/1812835445962649734",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, magic, ritual, adaptive."
+        },
+        {
+          "id": "art_749ec6760e0e",
+          "title": "Way receipt from 2024-05-12",
+          "excerpt": "why does it seem like there is no way out of coordination failures? \n\n1) the myth of the individual \n\n2) the pipedream of the pursuit of happiness\n\nthis one-two-punch of confusion gives Moloch its power \n\nYOU WERE NEVER SEPARATE AND IT'S NOT YOUR JOB TO MAKE YOURSELF HAPPY",
+          "source_document_id": "1789642935086317880",
+          "timestamp": "2024-05-12T13:05:00+00:00",
+          "url": "https://x.com/octopusyarn/status/1789642935086317880",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, magic, ritual, adaptive."
+        },
+        {
+          "id": "art_086dd5e28880",
+          "title": "Way receipt from 2024-04-13",
+          "excerpt": "The Structure of Metamodern Religion - reworked. \n\npart 1/4 is out now on metamoderna \n\nvery happy to have this published on @HFreinacht's blog, especially since his comments about a metamodern God \"always on its way to the guillotine\" partially inspired the series. https://t.co/zZYXvYdYzR https://t.co/1hWg7Cgjvm",
+          "source_document_id": "1779091062956376329",
+          "timestamp": "2024-04-13T10:15:37+00:00",
+          "url": "https://x.com/octopusyarn/status/1779091062956376329",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, magic, ritual, adaptive."
+        },
+        {
+          "id": "art_693885ae7e1c",
+          "title": "Way receipt from 2023-10-23",
+          "excerpt": "@metaLulie sounds like a kegan 3 way of relating to kegan stages https://t.co/1WSGCqo5sp",
+          "source_document_id": "1716360206454542400",
+          "timestamp": "2023-10-23T07:45:36+00:00",
+          "url": "https://x.com/octopusyarn/status/1716360206454542400",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, magic, ritual, adaptive."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_166bf31c3ab0",
+      "proof_score": 0.697,
+      "mass": 20.85,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_b60e04175c05",
+      "name": "Good",
+      "summary": "Archive cluster around good: 23 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "really",
+        "well",
+        "feels",
+        "point"
+      ],
+      "artifacts": [
+        {
+          "id": "art_92f1a26641b6",
+          "title": "Good receipt from 2024-04-20",
+          "excerpt": "yes, jhanas are \"just another experience\" and i'm still more interested in liberation independent of conditions \n\nAND raising baseline well-being and cultivating a relaxed, enjoyable state is obviously skillful and conducive to practice (and a good life)\n\nPLEASURE IS GOOD (duh)",
+          "source_document_id": "1781770609245978999",
+          "timestamp": "2024-04-20T19:43:11+00:00",
+          "url": "https://x.com/octopusyarn/status/1781770609245978999",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, well, feels."
+        },
+        {
+          "id": "art_787a785d69a6",
+          "title": "Good receipt from 2024-07-23",
+          "excerpt": "Claude tells me I have a *very specific* taste when it comes to tv shows\n\nno cap, binge-watching is low-key my toxic trait\n\nbut i need GOOD shows to satisfy my cravings \n\nthread with some of my fav shows that are under the radar (no order)\n\nyou're invited to add / pattern match",
+          "source_document_id": "1815878519311982751",
+          "timestamp": "2024-07-23T22:35:51+00:00",
+          "url": "https://x.com/octopusyarn/status/1815878519311982751",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, well, feels."
+        },
+        {
+          "id": "art_45712c3a529e",
+          "title": "Good receipt from 2023-11-19",
+          "excerpt": "2) Getting the trade-off right initially feels like tuning a guitar string - not too rigid, not too loose. \n\nWhat feels good is having a core structure (e.g. daily practices) but freedom within that structure. \n\nIdeally, the structure is fractal, so also weekly, monthly, etc.",
+          "source_document_id": "1726245629708603703",
+          "timestamp": "2023-11-19T14:26:44+00:00",
+          "url": "https://x.com/octopusyarn/status/1726245629708603703",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, well, feels."
+        },
+        {
+          "id": "art_6ae88116722c",
+          "title": "Good receipt from 2023-10-14",
+          "excerpt": "There is no faking it since the very basis for personal benefit is abandoned. \n\nAs the ultimate costly signal, it's impossible to ignore. It will inevitably lead to change in the memetic landscape.\n\nIf it is truly aligned with the higher good, annihilation is transcendence. https://t.co/3aHDPtIxkL",
+          "source_document_id": "1713180980201009304",
+          "timestamp": "2023-10-14T13:12:29+00:00",
+          "url": "https://x.com/octopusyarn/status/1713180980201009304",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, well, feels."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7c57feda52c2",
+      "proof_score": 0.668,
+      "mass": 20.039,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_55cad4c85b7d",
+      "name": "Don",
+      "summary": "Archive cluster around don: 18 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "want",
+        "take",
+        "refuge",
+        "down"
+      ],
+      "artifacts": [
+        {
+          "id": "art_98fdcfbbc893",
+          "title": "Don receipt from 2024-04-20",
+          "excerpt": "p.s. there is a whole rant about views of practice, spiritual materialism, cherrypicking techniques from their practice systems, and commercializing spirituality that i don't want to get into\n\nmostly bc i don't have the answers + making jhanas more accessible seems net positive",
+          "source_document_id": "1781770613750723044",
+          "timestamp": "2024-04-20T19:43:12+00:00",
+          "url": "https://x.com/octopusyarn/status/1781770613750723044",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, take, refuge."
+        },
+        {
+          "id": "art_f95b688e939a",
+          "title": "Don receipt from 2024-05-01",
+          "excerpt": "psa: \n\nyou don't actually get to wear plot armour just because you have main character syndrome \n\nwatch out for them buses",
+          "source_document_id": "1785767617392706012",
+          "timestamp": "2024-05-01T20:25:52+00:00",
+          "url": "https://x.com/octopusyarn/status/1785767617392706012",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, take, refuge."
+        },
+        {
+          "id": "art_1bf395bb223b",
+          "title": "Don receipt from 2024-01-15",
+          "excerpt": "@jim_rutt Can't believe @algekalipso hasn't been on the Jim Rutt show yet. \n\nResearching his stuff will be a feast, don't forget to bring the pistol",
+          "source_document_id": "1746944025364471948",
+          "timestamp": "2024-01-15T17:14:46+00:00",
+          "url": "https://x.com/octopusyarn/status/1746944025364471948",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, take, refuge."
+        },
+        {
+          "id": "art_46904ab2b47b",
+          "title": "Don receipt from 2023-11-25",
+          "excerpt": "\"Belief\" isn't enough. To really perceive differently, you need to change unconscious processes. \n\nEven if you succeed, you don't want to be stuck with a single view (magical or not). \n\nDeconstructing views again is key. \n\nRead more on my latest blog post, link in bio. https://t.co/GBAQL6m0ei",
+          "source_document_id": "1728489745674604721",
+          "timestamp": "2023-11-25T19:04:03+00:00",
+          "url": "https://x.com/octopusyarn/status/1728489745674604721",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, take, refuge."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_dc70780e90e7",
+      "proof_score": 0.644,
+      "mass": 19.332,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
